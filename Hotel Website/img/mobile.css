@@ -1,0 +1,9 @@
+#NavBar  h1{
+  float: none;
+  text-align: center;
+} 
+#NavBar ul, #NavBar ul li{
+  float: none;
+
+
+}
