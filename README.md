@@ -1,1 +1,3 @@
-# Hotel-BT-Welcome
+# Hotel BT Welcome: Responsive Hotel Website for a Premium Hospitality Experience
+
+Hotel BT Welcome is a visually engaging and user-friendly hotel website designed to showcase a luxurious hotel experience in Mumbai. The website features a responsive design that adapts to various screen sizes, ensuring a seamless user experience on both desktop and mobile devices. It includes essential sections such as a homepage with a welcoming showcase, detailed information about the hotel's history, and features like great location, free meals, and fitness rooms. The navigation is straightforward, guiding users to explore the hotel’s offerings and learn more about the services provided.
